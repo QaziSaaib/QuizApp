@@ -1,7 +1,7 @@
 # QuizApp
 This is one of the challenge project which I completed on a plateform "Codedamn Projects".
 
-#Link to my live project=======> https://generalrandomquiz.netlify.app/
+# Link to my live project=======> https://generalrandomquiz.netlify.app/
 
 ## Hello developer!
 
