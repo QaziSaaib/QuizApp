@@ -1,0 +1,65 @@
+@media (max-width: 925px) {
+  html {
+    font-size: 52.5%;
+  }
+}
+
+@media (max-width: 675px) {
+  .quiz_app {
+    padding: 2.4rem;
+  }
+  .question-container {
+    gap: 2.2rem;
+  }
+  .score_card {
+    padding: 2.2rem;
+  }
+}
+
+@media (max-width: 525px) {
+  .options {
+    padding: 0;
+  }
+  .quiz_start_menu .secondary_heading,
+  .question-container h2 {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 411px) {
+  .container {
+    padding: 1.2rem;
+  }
+  .quiz_end_menu {
+    padding: 1.2rem;
+  }
+  #name_initials {
+    width: 55%;
+  }
+}
+
+@media (max-width: 350px) {
+  .quiz_app {
+    padding: 2rem;
+  }
+  .quiz_start_menu .secondary_heading,
+  .question-container h2 {
+    font-size: 1.8rem;
+  }
+  .options .btn-option {
+    padding: 0.8rem;
+    font-size: 1.4rem;
+  }
+  .btn_next {
+    padding: 0.8rem;
+    font-size: 1.4rem;
+    border-radius: 3px;
+  }
+}
+
+@media (max-width: 338px) {
+  .clear_btn,
+  .btn_back {
+    padding: 0.8rem;
+    font-size: 1.4rem;
+  }
+}
